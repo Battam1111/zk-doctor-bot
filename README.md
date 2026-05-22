@@ -123,3 +123,15 @@ For now, paid tier intake is handled via Polar (`Bounty Radar Team $497/mo` incl
 - [zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor) — the OSS CLI this bot runs
 - [bounty-radar-data](https://battam1111.github.io/bounty-radar-data/) — live ZK + AI bounty feed (paid SaaS sibling)
 - [midnight-zk-cookbook](https://battam1111.github.io/midnight-zk-cookbook/) — tutorials
+
+---
+
+<!-- related-projects:start -->
+
+## Related projects
+
+- [**zk-pipeline-doctor**](https://github.com/Battam1111/zk-pipeline-doctor) — OSS CLI the bot wraps
+- [**zk-doctor-action**](https://github.com/Battam1111/zk-doctor-action) — GitHub Action — free CI tier (no bot install needed)
+- [**midnight-zk-cookbook**](https://github.com/Battam1111/midnight-zk-cookbook) — ZK tutorials + paid audits + bundles
+
+<!-- related-projects:end -->
